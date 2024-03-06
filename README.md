@@ -1,5 +1,6 @@
 # SpaceTraders API
 
+https://spacetraders.io/
 https://docs.spacetraders.io/
 
 
